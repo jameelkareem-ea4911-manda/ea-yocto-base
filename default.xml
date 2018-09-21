@@ -30,7 +30,7 @@
 
   <project remote="fsl-release" name="meta-fsl-bsp-release" path="sources/meta-fsl-bsp-release" revision="daba3340ecd8b358e0c6c415baeee0fcae95c525" />
 
-  <project remote="JK-EA" name="meta-ea" path="sources/meta-ea" revision="a0d862bd9831e603c1d09defe70902fdc4cf3894" >
+  <project remote="JK-EA" name="meta-ea" path="sources/meta-ea" revision="93f329bb037528e5e26ded61d2d363def943acee" >
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
 

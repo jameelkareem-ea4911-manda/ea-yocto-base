@@ -9,7 +9,7 @@
   <remote fetch="git://git.openembedded.org" name="oe"/>
   <remote fetch="git://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
-  <remote fetch="git://github.com/jameelkareem-ea"  name="JK-EA"/>
+  <remote fetch="git://github.com/jameelkareem-ea4911-manda"  name="JK-EA"/>
   <remote fetch="git://github.com/imyller"  name="imyller"/>
 
   <project remote="yocto" revision="78890ea22750804e3e9113e76f7ca3d7234c8342" name="poky" path="sources/poky"/>
@@ -34,7 +34,7 @@
      <copyfile src="ea-setup-release.sh" dest="ea-setup-release.sh"/>
   </project>
 
-  <project remote="JK-EA" name="meta-murata-wireless" path="sources/meta-murata-wireless" revision="93c72b24d52ed38324bc06845ee1e6b1a1b8e938" />
+  <project remote="JK-EA" name="meta-murata-wireless" path="sources/meta-murata-wireless" revision="82000e367252fcbb6dce44c3e1990d69e0eaf054" />
 
   <project remote="imyller" name="meta-nodejs" path="sources/meta-nodejs" revision="4f5c22cf8b545ceae5b37f70d5fc0f77087b5e22" />
   <project remote="imyller" name="meta-nodejs-contrib" path="sources/meta-nodejs-contrib" revision="be99cba0c6fcfb1ba7e85d3446f2a806ae7c3da2" />
